@@ -127,3 +127,14 @@
     filter: invert(1);
   }
 }
+
+/* probably only this code is required or maybe container as well */
+
+.button{
+  cursor: pointer;
+  font-size: 48px;
+}
+
+.count{
+  font-size: 48px;
+}
